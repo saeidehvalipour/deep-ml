@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 15 problems · 0 labs · 0 math
+**16** solved · 16 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-11-11 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-01-21 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
+| [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-01-26 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-01-19 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-01-19 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-01-20 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
