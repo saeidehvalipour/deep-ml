@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 19 problems · 0 labs · 0 math
+**20** solved · 20 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-11-10 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-01-24 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-12-02 | [solution](problems/0003-reshape-matrix) |
+| [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-02-04 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-11-10 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-11-12 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2026-01-24 | [solution](problems/0176-chi-square-probability-distribution) |
