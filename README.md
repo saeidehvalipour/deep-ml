@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 21 problems · 0 labs · 0 math
+**23** solved · 23 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-01-19 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-01-06 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2025-11-13 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-02-06 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-11-10 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-01-24 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-12-02 | [solution](problems/0003-reshape-matrix) |
@@ -30,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-11-12 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2026-01-24 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-02-05 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-02-06 | [solution](problems/0017-k-means-clustering) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-11-13 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-02-02 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-02-03 | [solution](problems/0312-quotient-rule-for-derivatives) |
