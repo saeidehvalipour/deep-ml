@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 24 problems · 0 labs · 0 math
+**25** solved · 25 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-01-26 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-01-19 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-01-19 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-02-10 | [solution](problems/0083-dot-product-calculator) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-01-20 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-02-01 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-01-19 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
