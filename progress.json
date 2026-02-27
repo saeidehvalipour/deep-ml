@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T00:51:14.448Z",
+  "generated_at": "2026-10-01T00:51:16.247Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -481,6 +481,32 @@
       "last_pushed_at": "2026-02-26T03:50:20.848Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-02-27T04:39:29.636Z",
+      "last_pushed_at": "2026-02-27T04:39:29.636Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2026-02-27T19:44:14.069Z",
+      "last_pushed_at": "2026-02-27T19:44:14.069Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
